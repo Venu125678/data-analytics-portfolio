@@ -13,3 +13,13 @@ The dashboard provides insights into:
 * Attrition Monitoring
 * Employee Pulse & Engagement Tracking
 * Capacity Planned vs Actual Workforce
+
+![](dashboard1.png)
+
+![](dashboard2.png)
+
+![](dashboard3.png)
+
+![](dashboard4.png)
+
+![](dashboard5.png)
