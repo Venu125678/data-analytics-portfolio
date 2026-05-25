@@ -14,12 +14,12 @@ The dashboard provides insights into:
 * Employee Pulse & Engagement Tracking
 * Capacity Planned vs Actual Workforce
 
-[![ ](dashboard1.png)](dashboard1.png)
+[![ ](Dashboard1.png)](Dashboard1.png)
 
-[![ ](dashboard2.png)](dashboard2.png)
+[![ ](Dashboard2.png)](Dashboard2.png)
 
-[![ ](dashboard3.png)](dashboard3.png)
+[![ ](Dashboard3.png)](Dashboard3.png)
 
-[![ ](dashboard4.png)](dashboard4.png)
+[![ ](Dashboard4.png)](Dashboard4.png)
 
-[![ ](dashboard5.png)](dashboard5.png)
+[![ ](Dashboard5.png)](Dashboard5.png)
